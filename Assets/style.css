@@ -1,0 +1,56 @@
+header{
+  text-align: center;
+  background-color: #f1f1f1;
+  border: 2px solid rgb(0, 140, 255);;
+}
+
+h2{
+  text-align: center;
+} 
+
+
+
+.humidity, .wind, .iconexp, .lead, .date-off{
+  font-weight: 700;
+  text-align: center;
+}
+
+.current-time{
+  font-weight: 1000;
+  text-align: center;
+}
+
+.pickedcity {
+  font-weight: 1000;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 1px;
+  margin-bottom: 2px;
+}
+
+.history {
+  cursor: pointer;
+  font-size: 25px;  
+  text-align: left;
+  width: auto;
+  margin-top: 10px;
+  border: 2px solid rgb(0, 140, 255);
+  background-color: #f1f1f1;
+}
+
+.history:hover{
+  background-color: rgb(0, 140, 255) ;
+  transition: background-color 0.7s
+}
+
+.whole {
+  background-color:#bcbaba;
+  color: black ;
+  font-weight: 500;
+  margin-left: 42px;
+  margin-top: 15px;
+  padding: 10px;
+  text-align: center;
+  border: 2px solid rgb(0, 140, 255);
+  border-radius: 15px;
+}
