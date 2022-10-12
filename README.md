@@ -1,4 +1,4 @@
-built simple a weather dashboard using openweather API that will run in the browser and feature dynamically update HTML and CSS.
+Built simple a weather dashboard using openweather API that will run in the browser and feature dynamically update HTML and CSS.
 
 Deployed Link: https://burakcersit.github.io/Five-Day-Weather-Forecast/
 
